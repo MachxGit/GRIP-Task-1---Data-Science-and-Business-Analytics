@@ -1,5 +1,5 @@
-# GRIP-Task-1---Data-Science-and-Business-Analytics
-# GRIP-Task1-Prediction-using-Supervised-ML
+# GRIP---Data-Science-and-Business-Analytics
+# Task1---Prediction-using-Supervised-ML
 Predicting the percentage obtained by students based on the no. of hours they have studied.
 The idea behind this project is to develop a simple and efficient algorithm to predict the scores obtained by a student based on the number of hours they put into studying.
 The code works efficiently various parameters like Training, Testing and Predicting the values. 
